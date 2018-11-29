@@ -1,0 +1,1 @@
+# diploma_python_version
